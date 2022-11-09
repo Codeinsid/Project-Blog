@@ -58,12 +58,18 @@ Here are the technologies used in this project.
   
 * To install the gems.
   - bundle install
+* To install the yarn
+* -  yarn install
+  
 
 
   
 * To run the project.
   - rails s
 
+There may be some bugs related to webpacker . I recommend reinstalling if necessary:
+
+rails webpacker:install
 
   Please follow github and join us!
   Thanks to visiting me and good coding!
